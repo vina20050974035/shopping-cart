@@ -1,0 +1,42 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.button1 {
+    background-color: blue;
+    border: 1px solid gray;
+    cursor: pointer;
+    height: auto;
+    width: 70%;
+    color: #FFF;
+}
+
+.button2 {
+    background: red;
+    border: none;
+    cursor: pointer;
+    height: 2rem;
+    width: 100%;
+    color: #FFF;
+}
+
+.button3 {
+    background: green;
+    border: none;
+    cursor: pointer;
+    height: 2rem;
+    width: 100%;
+    color: #FFF;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
